@@ -8,8 +8,8 @@ public class Main {
         Task4 t4 = new Task4();
 
         //t1.solve();
-        //t2.binary();
+        t2.binary();
         //t3.prime();
-        t4.test();
+        //t4.test();
     }
 }

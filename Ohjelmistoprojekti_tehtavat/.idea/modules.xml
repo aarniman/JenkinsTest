@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ohjelmistoprojekti_tehtavat.iml" filepath="$PROJECT_DIR$/Ohjelmistoprojekti_tehtavat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Viikko1/Viikko1.iml" filepath="$PROJECT_DIR$/Viikko1/Viikko1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Viikko2/Viikko2.iml" filepath="$PROJECT_DIR$/Viikko2/Viikko2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Viikko3/Viikko3.iml" filepath="$PROJECT_DIR$/Viikko3/Viikko3.iml" />
+    </modules>
+  </component>
+</project>
